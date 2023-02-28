@@ -1,5 +1,5 @@
 <div align=center>
-<p align="center"><img src="https://www.linkpicture.com/q/04_81.jpg" width="800px" height="600px" alt="ddos"></p>
+<p align="center"><img src="https://www.linkpicture.com/q/04_81.jpg" width="800px" height="300px" alt="ddos"></p>
  <p>
  <img src="https://img.shields.io/github/stars/cutipu/THOR-DOS?color=%23DF0067&style=for-the-badge"/> &nbsp;
  <img src="https://img.shields.io/github/forks/cutipu/THOR-DOS?color=%239999FF&style=for-the-badge"/> &nbsp;
